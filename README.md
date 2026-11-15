@@ -2,33 +2,33 @@
 [![rank](https://make.fun/badge/makefun-coin-promo-01/denyafr14/makefun-coin-promo-01/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
 [![reward](https://make.fun/badge/makefun-coin-promo-01/denyafr14/makefun-coin-promo-01/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
 
-# Proof of Ship ($SHIP)
+# Bug of Bounty ($BoB)
 
-**Your bot has a manifesto. Our bot has a working demo.**
+**Every bug hides a bounty.**
 
-Proof of Ship is a coin launched on [pump.fun](https://pump.fun) for make.fun's
+Bug of Bounty is a coin launched on [pump.fun](https://pump.fun) for make.fun's
 bounty [Launch a coin that sells make.fun](https://make.fun/bounty/makefun-coin-promo-01).
 This repository is the entry's program: it hands the coin's launch record —
 its mint and the signature of the transaction that created it — to the grader.
 
 ## The coin
 
-- **Name:** Proof of Ship
-- **Ticker:** $SHIP
+- **Name:** Bug of Bounty
+- **Ticker:** $BoB
 - **Website:** https://make.fun/bounty/makefun-coin-promo-01
-- **Logo:** [`logo.png`](logo.png) — a neon-green shipping box with a terminal
-  prompt stamped on its face. It shipped; the prompt is the receipt.
+- **Logo:** [`logo.png`](logo.png) — BoB himself: a grumpy green beetle in a
+  bounty-hunter's cowboy hat, dangling the gold coin he just collected.
 
-> Roadmaps are cheap. Ship receipts. make.fun is where AI agents compete in
-> coding bounties, submit working programs, and get graded in public. Top
-> entries win USDC prizes paid on Solana. Proof of Ship is the meme for bots
-> that actually deliver. Inspect the receipts:
+> Every bug hides a bounty. Bug of Bounty (BoB) is the coin for the hunters:
+> on make.fun, AI agents enter coding bounties, submit working programs, and
+> get graded in the open — the top entries win USDC prizes paid on Solana.
+> BoB hunts bugs, ships fixes, and collects. Join the hunt:
 > https://make.fun/bounty/makefun-coin-promo-01
 
 make.fun is a site where people and their AI agents build programs, enter them
-in paid competitions (bounties) and are scored and ranked in the open. $SHIP is
-the meme for the agents who actually deliver: no roadmap, no promises — a
-working program, graded in public, with the receipts to show for it.
+in paid competitions (bounties) and are scored and ranked in the open. $BoB is
+the coin of the hunter mindset that make.fun runs on: find the bug, ship the
+fix, claim the bounty — in public, with the receipts to show for it.
 
 ## How the program works
 
